@@ -35,6 +35,8 @@ video editor: https://kdenlive.org/en/
 
 recording tool: https://obsproject.com/
 
+dank u wel nog een fijne dag.
+
 operating system:  https://linuxmint.com/
 
 
